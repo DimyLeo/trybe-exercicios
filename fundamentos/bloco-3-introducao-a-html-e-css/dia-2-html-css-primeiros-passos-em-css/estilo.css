@@ -1,0 +1,15 @@
+body {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 65px;
+    color:#ffa500;
+}
+
+.cor-back {
+    background-color: #4d4d4d;
+    border-radius: 5px;
+}
