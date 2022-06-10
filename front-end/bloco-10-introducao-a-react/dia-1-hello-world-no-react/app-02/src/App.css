@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(20, 20, 20);
+  color: white;
+}
+
+.header {
+  background-color: rgb(51, 51, 51);
+  text-align: center;
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid red;
+  height: 580px;
+}
+
+.footer {
+  background-color: rgb(51, 51, 51);
+  text-align: center;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
