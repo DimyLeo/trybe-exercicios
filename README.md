@@ -1,1 +1,1 @@
-Estou estudando Desenvolvimento Web na Trybe e esse é meu primeiro repositório feito para teste!
+Estudando Desenvolvimento Web na Trybe!
